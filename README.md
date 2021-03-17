@@ -1,16 +1,11 @@
-# flutter_application_2
+# flutter Sample with Bug
 
-A new Flutter project.
+Original code URL : https://github.com/TechieBlossom/flutter-samples
+Youtube Link: https://www.youtube.com/watch?v=VzuHfHyJcuI&t=97s
+The original auther didn't have flutter setup in the code, so I set it up for you
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+In root directory run flutter doctor and flutter run. 
+Happy Coding.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
